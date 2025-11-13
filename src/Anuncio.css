@@ -3,7 +3,21 @@
     font-size: 24px;
 }
 
+.titulitoVerde{
+    color: green;
+    font-size: 24px;
+}
+
+.titulitoNaranja{
+    color: orange;
+    font-size: 24px;
+}
+
 .parrafoRojo{
     color: red;
     font-size: 18px;
+}
+img{
+    width: 200px;
+    height: auto;
 }
